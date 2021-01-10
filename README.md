@@ -5,7 +5,7 @@ This app allows the user to change the text, its color, and the background view.
 
 ### App Walk-through
 
-![Uploading file..._qbjq41ew7]()
+![](https://i.imgur.com/YzSTdme.gif)
 
 
 ### Required User Stories
