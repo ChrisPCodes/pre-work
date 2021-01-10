@@ -5,7 +5,8 @@ This app allows the user to change the text, its color, and the background view.
 
 ### App Walk-through
 
-![](https://i.imgur.com/m2fsduQ.gif)
+![Uploading file..._qbjq41ew7]()
+
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
